@@ -6,9 +6,9 @@
     padding: 0;
     box-sizing: inherit;  
 }
-/* default size 16px; needed 10px for rem units in % it gives 62.5% */
+
 html {
-    // defines what 1rem is
+    // 10px = 0.625rem; 16px = 1rem
     font-size: 62.5%;
 }
 
